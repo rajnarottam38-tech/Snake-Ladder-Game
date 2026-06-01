@@ -55,7 +55,7 @@ python SnakeLadder.py
 ## 📁 Project Structure
 
 ```
-My-First-Project/
+Snake-Ladder-Game/
 └── SnakeLadder.py   
 ```
 
