@@ -42,7 +42,7 @@ A terminal-based **Snake and Ladder** game built with Python. Supports multiple 
 ## ⚙️ Setup & Run
 
 ### Requirements
-- Python 3.x (no external libraries needed)
+- Python 3.14
 
 ### Run the game
 
